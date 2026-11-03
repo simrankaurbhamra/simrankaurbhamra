@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simran kaur</h1>
-<h3 align="center">A passionate student learning full stack development</h3>
+<h3 align="center">A passionate full stack development</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript**
+- 🌱 I’m am proficient in **HTML,CSS,Javascript,Node.js,Python,FastAPI**
 
-- 💬 Ask me about **C programming,C++ and front-end development**
+- 💬 Ask me about **C programming,C++,python and full stack development**
 
 - 📫 How to reach me **simrankaurbhamra2345@gmail.com**
 
